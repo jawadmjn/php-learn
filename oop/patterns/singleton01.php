@@ -1,5 +1,5 @@
 <?php
-
+// https://coderwall.com/p/csa_4a/13-line-singleton-implementation
 class Singleton {
 
     private static $instance = null;

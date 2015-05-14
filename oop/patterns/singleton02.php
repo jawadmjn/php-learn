@@ -1,4 +1,5 @@
 <?php
+//http://www.phptherightway.com/pages/Design-Patterns.html
 
 class Singleton
 {
