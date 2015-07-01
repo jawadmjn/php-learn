@@ -35,7 +35,4 @@ I   Interface Segregation Principle
 D   Dependency Inversion Principle
     Entitites must depend on abstractions not on concretions. It states that high level module must
     not depend on the low level module, but they should depend on abstractions.
-    => principle alows for decoupling
-
-
-test
+    => principle alows for decoupling.
